@@ -1,0 +1,58 @@
+body {
+    background-color: #121212;
+    color: #d4af37;
+}
+
+.card {
+    background-color: #1a1a1a;
+    border-color: #d4af37;
+}
+
+.card-header,
+.card-footer {
+    background-color: #1a1a1a;
+    color: #d4af37;
+    border-color: #d4af37;
+}
+
+.card-header {
+    border-bottom: 1px solid #d4af37;
+}
+
+.card-footer {
+    border-top: 1px solid #d4af37;
+}
+
+.table {
+    color: #d4af37;
+}
+
+.table th {
+    background-color: #343a40;
+    color: #d4af37;
+}
+
+.table td {
+    background-color: #1a1a1a;
+    color: #d4af37;
+}
+
+a {
+    color: #d4af37;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffeb3b;
+    text-decoration: none;
+}
+
+.btn-custom {
+    background-color: #d4af37;
+    color: #121212;
+}
+
+.btn-custom:hover {
+    background-color: #ffeb3b;
+    color: #121212;
+}

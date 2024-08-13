@@ -1,0 +1,36 @@
+body {
+    background-color: #121212;
+    color: #d4af37;
+}
+.card {
+    background-color: #1e1e1e;
+    border-color: #bdbdbd; 
+    color: #d4af37;
+}
+.card-header, .card-footer {
+    background-color: #343a40;
+    color: #d4af37;
+    border-color: #bdbdbd; 
+}
+.form-control {
+    background-color: rgba(0, 0, 0, 0.3); 
+    color: #d4af37;
+    border-color: #bdbdbd; 
+}
+.form-control:focus {
+    background-color: #454d54; 
+    color: #d4af37; 
+    border: 1px solid #d4af37; 
+}
+.form-label {
+    color: #d4af37;
+}
+.btn-warning {
+    background-color: #d4af37;
+    color: #121212;
+    border: none;
+}
+.btn-warning:hover {
+    background-color: #ffeb3b;
+    color: #121212;
+}
